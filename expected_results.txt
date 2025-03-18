@@ -1,0 +1,15 @@
+Test 0: Human moves to make (columns):  4, 3, 4, 2
+        Moves for AI to win:            4            
+        Winning combo:                  positive diagonal from cols 1 to 4, starting at row 0  
+
+Test 1: Human moves to make (columns):  6, 1
+        Moves for AI to win:            2
+        Winning combo:                  negative diagonal from cols 1 to 4, starting at row 3
+
+Test 2: Human moves to make (columns):  4, 4, 1, 0
+        Moves for AI to win:            4
+        Winning combo:                  positive diagonal from cols 1 to 4, starting at row 1
+
+Test 3: Human moves to make (columns):  5, 6
+        Moves for AI to win:            2
+        Winning combo:                  negative diagonal from cols 3 to 6, starting from row 5
